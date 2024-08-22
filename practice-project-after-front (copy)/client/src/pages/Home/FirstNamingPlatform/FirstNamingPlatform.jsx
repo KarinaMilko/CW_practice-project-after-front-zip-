@@ -20,7 +20,7 @@ function FirstNamingPlatform() {
       <div>
         <img src={`${STATIC_IMAGES_PATH}home/nh-theworld5.svg`} alt="icon" />
         <p>The Ultra Premium Marketplace Is Here</p>
-        <Link to="#">Explore nowUltra Premium Marketplace</Link>
+        <Link to="#">Explore now</Link>
       </div>
     </section>
   );
